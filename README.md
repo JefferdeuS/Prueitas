@@ -14,6 +14,7 @@
 - Generación automática de reportes en PDF
 - Interfaz gráfica moderna y fácil de usar
 
+### URLS DE PRUEBA PARA ZAP
 
 Sitios en línea (no necesitas instalar nada)
  OWASP Juice Shop
@@ -90,7 +91,7 @@ Para que ZAP funcione correctamente con la aplicación:
 ### Paso 1: Clonar o Descargar el Proyecto
 
 ```bash
-cd "C:\Users\Anderson Guerrero\Documents\BRM-DESARROLLO SEGURIDAD\Bender"
+cd "C:\Users\{user}\Documents\Bender"
 ```
 
 ### Paso 2: Instalar Dependencias
@@ -713,7 +714,7 @@ Desarrollado para pruebas de seguridad educativas y profesionales.
 
 ---
 
-**Autor**: Jefferson Guerrero - BRM Desarrollo Seguridad
+**Autor**: Jefferson Guerrero
 **Versión**: 1.0.0
 **Última actualización**: 2025
 **Estado**: Producción
